@@ -1,0 +1,58 @@
+{
+    "books": [
+        {
+            "title": "Metamorphosis",
+            "author": "Franz Kafka",
+            "category": "Fiction",
+            "quantity": 5,
+            "id": "1"
+        },
+        {
+            "title": "Yeetsho gi mitshey",
+            "author": "Kezang",
+            "category": "History",
+            "quantity": 1,
+            "id": "2"
+        },
+        {
+            "title": "Jowi Lam",
+            "author": "Yeetsho Choden",
+            "category": "Fiction",
+            "quantity": 7,
+            "id": "3"
+        }
+    ],
+    "students": [
+        {
+            "student_id": "08230111",
+            "name": "Sonam",
+            "class": "8",
+            "section": "A",
+            "contact": "12345678"
+        },
+        {
+            "student_id": "08230123",
+            "name": "Yeegyel",
+            "class": "9",
+            "section": "C",
+            "contact": "17864567"
+        },
+        {
+            "student_id": "08230143",
+            "name": "Tshering",
+            "class": "10",
+            "section": "A",
+            "contact": "17765345"
+        }
+    ],
+    "loans": [
+        {
+            "loan_id": "1",
+            "book_title": "Metamorphosis",
+            "student_name": "Sonam",
+            "issue_date": "2026-11-08",
+            "due_date": "2026-11-22",
+            "status": "Returned"
+        }
+    ]
+}
